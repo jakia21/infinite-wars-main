@@ -39218,7 +39218,7 @@ button.bg-grad-6:hover {
   color: hsl(var(--info-100) / var(--clr-opacity));
 }
 .clr-grad-1 {
-  background: linear-gradient(90deg, #6a41fb 30%, #f49957 70%);
+  background:  linear-gradient(90deg, #26D7FC 30%, #7E65FC 70%);
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;

@@ -41068,7 +41068,7 @@ button.bg-grad-6:hover {
 Design Specific Custom Color 
 */
 .clr-grad-1 {
-  background: linear-gradient(90deg, #6a41fb 30%, #f49957 70%);
+  background: linear-gradient(90deg, #26D7FC 30%, #7E65FC 70%);
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -43081,4 +43081,15 @@ h1,h2,h3,h4,h5,p,a{
   vertical-align: -.125em;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+
+.title{
+font-size:50px
+}
+
+@media screen and (max-width:768px){
+  .title{
+    font-size:27px
+    }
 }
